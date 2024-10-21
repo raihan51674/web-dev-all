@@ -71,27 +71,7 @@ The pre tag represents pre-formatted text
     
     World </pre>
 ```
-
-
-## code tag :
-The code tag is used to represent source codes in HTML
-```c
-<code>
-    // Print numbers from 1 to 10
-#include <stdio.h>
-
-int main() {
-  int i;
-
-  for (i = 1; i < 11; ++i)
-  {
-    printf("%d ", i);
-  }
-  return 0;
-}
-
-</code>
-```
+\
 
 
 ## Text Formatting :
