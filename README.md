@@ -291,7 +291,7 @@ We use various input types and buttons inside a form as form elements
 ![alt text](Img/html_form.png)
 
 
-### $\textcolor{orange}{ Characters\ &\ Symboks\ :\}$
+### $\textcolor{orange}{ Characters\ Symboks\ :\}$
 Some symbols are not directly present on the keyboard, but there are some ways to use them in HTML documents. We can display them either by entity name, decimal, or hexadecimal value.
 ```html
 <p>Less Than: &lt;</p>
