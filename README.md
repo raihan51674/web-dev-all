@@ -1,7 +1,11 @@
-# HTML Learn
+
+## $\textcolor{yellow}{ HTML\ Learn\:\}$
 
 
-## Boilerplate :
+
+### $\textcolor{orange}{ Boilerplate\ :\}$
+
+
 
 ```html
 <!DOCTYPE html>
@@ -17,7 +21,8 @@
 ```
 
 
-## Headings :
+
+### $\textcolor{orange}{ Headings\ :\}$
 
 ```html
  <!-- Main heading, typically the page title -->
@@ -40,7 +45,8 @@
 ```
 
 
-## Contailer :
+
+### $\textcolor{orange}{ Contailer\ :\}$
 Container tags are the tags that contain some data such as text, image, etc. There are several container tags in HTML.
 ```html
 <div> 
@@ -49,14 +55,16 @@ Container tags are the tags that contain some data such as text, image, etc. The
 ```
 
 
-## span tag :
+
+### $\textcolor{orange}{ span\ tag\ :\}$
 The span is a container for inline content
 ```html
 <span> This is span block </span>
 ```
 
 
-## p tag :
+
+### $\textcolor{orange}{ p-tag\ :\}$
 The p tag is used to create a paragraph in HTML
 
 ```html
@@ -64,7 +72,8 @@ The p tag is used to create a paragraph in HTML
 ```
 
 
-## pre tag :
+
+### $\textcolor{orange}{ pre\ tag\ :\}$
 The pre tag represents pre-formatted text
 ```html
 <pre> Hello
@@ -74,7 +83,8 @@ The pre tag represents pre-formatted text
 \
 
 
-## Text Formatting :
+
+### $\textcolor{orange}{ Text\ Formating\ :\}$
 Text formatting tags are used to format text or data in HTML documents. You can do certain things like creating italic, bold, and strong text to make your document look more attractive and understandable.
 ```html
 <!-- Bold text using <b> -->
@@ -100,7 +110,7 @@ This is superscript: X<sup>2</sup>.<br><br
 ```
 
 
-## Lists :
+### $\textcolor{orange}{ Lists\ :\}$
 Lists can be either numerical, alphabetic, bullet, or other symbols. You can specify list type and list items in HTML for a clean document.
 ### ol tag :
 The ordered list starts with ol tag and each list item starts with an li tag.
@@ -114,8 +124,9 @@ The ordered list starts with ol tag and each list item starts with an li tag.
 ```
 
 
-### ul tag :
 
+
+### $\textcolor{orange}{ Ul\ Tag\:\}$
 ```html
 <ul>
     <li>Your Data</li>
@@ -124,10 +135,12 @@ The ordered list starts with ol tag and each list item starts with an li tag.
 ```
 
 
-## Media :
+
+### $\textcolor{orange}{ Media\ :\}$
 Media is anything that is present in digital form such as image, video, audio, etc.
 
-### audio tag :
+
+### $\textcolor{orange}{ audio\ tag\ :\}$
 It is used to embed sound content in the document.
 ```html
 <audio controls>
@@ -137,14 +150,16 @@ It is used to embed sound content in the document.
 ```
 
 
-### img tag :
+
+### $\textcolor{orange}{ img\ tag\ :\}$
 It is used to embed or import images in a webpage.
 ```html
 <img src="Source_of_image" alt="Alternate text">
 ```
 
 
-### video tag :
+
+### $\textcolor{orange}{ video\ tag\ :\}$
 It is used to embed videos on a webpage.
 ```html
 <video width="480" height="320" controls>
@@ -154,7 +169,8 @@ It is used to embed videos on a webpage.
 ```
 
 
-## Table :
+
+### $\textcolor{orange}{ Table\ :\}$
 A table is a collection of rows and columns. It is used to represent data in tabular form.
 
 ### Table Structure :
@@ -190,14 +206,16 @@ A table is a collection of rows and columns. It is used to represent data in tab
 ```
 ![alt text](Img/table_html.png)
 
-## a tag :
+
+### $\textcolor{orange}{ a\ Tag\ :\}$
 a or anchor tag defines a hyperlink. When clicked, it takes you to some other page
 ```html
 <a href="https://www.codewithharry.com/">Visit CodeWithHarry.com!</a>
 ```
 
 
-## Form :
+
+### $\textcolor{orange}{ Form\ :\}$
 We use various input types and buttons inside a form as form elements
 
 
@@ -272,7 +290,8 @@ We use various input types and buttons inside a form as form elements
 ```
 ![alt text](Img/html_form.png)
 
-## Characters & Symbols :
+
+### $\textcolor{orange}{ Characters\ &\ Symboks\ :\}$
 Some symbols are not directly present on the keyboard, but there are some ways to use them in HTML documents. We can display them either by entity name, decimal, or hexadecimal value.
 ```html
 <p>Less Than: &lt;</p>
@@ -288,7 +307,8 @@ Some symbols are not directly present on the keyboard, but there are some ways t
 ```
 ![alt text](Img/html_char_symble.png)
 
-## HTML Layout :
+
+### $\textcolor{orange}{ HTML\ Layout\ :\}$
 
 ```html
 <!DOCTYPE html>
@@ -352,7 +372,8 @@ Some symbols are not directly present on the keyboard, but there are some ways t
 ```
 
 
-## Meta Tags :
+
+### $\textcolor{orange}{ Meta\ Tags\ :\}$
 Meta tags define metadata about the document, such as author, description, and keywords.
 ```html
 <meta name="description" content="This is a description of the page">
@@ -361,7 +382,8 @@ Meta tags define metadata about the document, such as author, description, and k
 ```
 
 
-## CSS Integration :
+
+### $\textcolor{orange}{ CSS\ Integratiin\ :\}$
 CSS integration can be done to style our HTML document using internal or external CSS.
 ```html
 <style>
@@ -372,7 +394,8 @@ CSS integration can be done to style our HTML document using internal or externa
 ```
 
 
-## JavaScript Integration :
+
+### $\textcolor{orange}{ JavaScript\ Integration\ :\}$
 Embed JavaScript directly or link to an external file for added functionality.
 ```html
 <script>
@@ -383,14 +406,18 @@ Embed JavaScript directly or link to an external file for added functionality.
 ```
 
 
-## Comments :
+
+### $\textcolor{orange}{ Comments\ :\}$
 Comments allow you to leave notes in your code, which are ignored by browsers.
 ```html
 <!-- This is a comment -->
 ```
 
 
-## Emmet :
+
+### $\textcolor{orange}{ Emmet\ :\}$.
+
+
 Usefull for write code faster way.
 ### h1+h2+h3
 ```html
