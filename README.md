@@ -46,7 +46,7 @@
 
 
 
-### $\textcolor{orange}{ Contailer\ :\}$
+### $\textcolor{orange}{ Container\ :\}$
 Container tags are the tags that contain some data such as text, image, etc. There are several container tags in HTML.
 ```html
 <div> 
