@@ -222,8 +222,9 @@ We use various input types and buttons inside a form as form elements
 ```html
 <form action="/submit-form" method="post">
     <!-- Text input -->
+   
     <label for="username">Username:</label>
-    <input type="text" id="username" name="username"><br><br>
+    <input type="text" id="username" name="username" placeholder="your email"><br><br>
     
     <!-- Password input -->
     <label for="password">Password:</label>
@@ -259,8 +260,9 @@ We use various input types and buttons inside a form as form elements
     <textarea id="comments" name="comments" rows="4" cols="50"></textarea><br><br>
     
     <!-- File upload -->
+     
     <label for="file-upload">Upload file:</label>
-    <input type="file" id="file-upload" name="file-upload"><br><br>
+    <input type="file" id="file-upload" name="file-upload" download><br><br>
     
     <!-- Range slider -->
     <label for="volume">Volume:</label>
