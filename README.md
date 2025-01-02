@@ -210,7 +210,7 @@ A table is a collection of rows and columns. It is used to represent data in tab
 ### $\textcolor{orange}{ a\ Tag\ :\}$
 a or anchor tag defines a hyperlink. When clicked, it takes you to some other page
 ```html
-<a href="https://www.codewithharry.com/">Visit CodeWithHarry.com!</a>
+<a href="https://www.codewithharry.com/" target="_blank">Visit CodeWithHarry.com!</a>
 ```
 
 
